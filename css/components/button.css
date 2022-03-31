@@ -1,0 +1,17 @@
+.button {
+	font-size: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+	color: #e9ff70;
+	text-decoration: none;
+}
+.button2 {
+	font-size: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+	color: #e9ff70;
+	text-decoration: none;
+	margin-top: 100px;
+}

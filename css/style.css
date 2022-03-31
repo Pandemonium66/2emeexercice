@@ -1,0 +1,51 @@
+@import url("components/button.css") ;
+@import url("components/banner.css") ;
+@import url("components/avatar.css") ;
+
+body {
+	color: rgb(10,10,10);
+	background-color: #003049;
+}
+
+img {
+	height: 320px ;
+	border-radius: 300px;
+}
+.flexbox {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.chapitre1 {
+	font-family: initial;
+	text-align: center;
+	width: 60% ;
+	background-color: #006d77;
+	color: white;
+	border-radius: 10px ;
+	margin: 50px ;
+	padding: 20px ;
+	box-shadow: 5px 5px 5px 5px ;
+	justify-content: space-around;
+}
+.inter {
+	font-family: initial;
+	justify-content: center;
+	text-align: center;
+	background-color: #006d77;
+	color: black;
+	font-size: 20px ;
+	border-radius: 10px ;
+	margin: 50px ;
+	padding: 20px ;
+	box-shadow: 5px 5px 5px 5px ;
+	background-image: url("https://img.lemde.fr/2022/03/31/0/0/689/558/664/0/75/0/b609f39_1648712530771-inflation-graphique-insee.PNG");
+	background-position: center;
+	background-size:  cover;
+}
+.trait {
+	border-top: 3px solid white;
+	width:600px;
+	margin: 0 auto;
+
+}

@@ -1,0 +1,18 @@
+.banner {
+	display: flex;
+	height: 400px;
+	background: linear-gradient(black, #003049);
+	text-decoration: none;
+	color: #006d77;
+	text-align: center;
+	-webkit-text-stroke: 1px black;
+	justify-content: center;
+	align-items: center;
+	font-size: 90px;
+	font-family: Brush Script MT, Brush Script Std, cursive;
+}
+.banner2 {
+	display: flex;
+	height: 400px;
+	background: linear-gradient(#003049, black);
+}
